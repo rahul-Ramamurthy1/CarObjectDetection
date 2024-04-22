@@ -1,13 +1,6 @@
 # -*- coding: utf-8 -*-
 
 
-
-Let's get started!
-
-In this notebook we'll be:
-1.   Understanding YOLO
-2.   Performing Bounding Box Prediction
-3.   Performing Object Detection on videos
 """
 
 #@title Run this to download data and prepare our environment! { display-mode: "form" }
